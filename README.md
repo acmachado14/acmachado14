@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hey there! I'm Angelo. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="300"/>
+<img align="right" alt="GIF" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="250"/>
 
 <!--
 <h3> 👨🏻‍💻 About Me </h3>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acmachado14&layout=demo&text_color=daf7dc&theme=ayu-mirage)](https://github.com/caduxl007/github-readme-stats)               ![acmachado14 github stats](https://github-readme-stats.vercel.app/api?username=acmachado14&show_icons=true&theme=ayu-mirage)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acmachado14&layout=demo&text_color=daf7dc&theme=ayu-mirage123456)](https://github.com/caduxl007/github-readme-stats)               ![acmachado14 github stats](https://github-readme-stats.vercel.app/api?username=acmachado14&show_icons=true&theme=ayu-mirage)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
