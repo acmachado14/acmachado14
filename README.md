@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML | CSS | JavaScript | PHP | Java
+- 💻 &nbsp; HTML | CSS | JavaScript | PHP | Java | Python
 - 🌐 &nbsp; React | ReactNative | NodeJS | TypeScript | Angular | Ionic | Laravel
 - 🛢 &nbsp; MySQL | Xampp | Docker | PostgreSql 
 - 🔧 &nbsp; Visual Studio code | Git | SmartGit | WebStorm | IntelliJ | DBeaver | Insomnia
