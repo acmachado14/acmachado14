@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp; HTML | CSS | JavaScript | PHP | Java | Python | Ruby
 - 🌐 &nbsp; Laravel | Lumen | Ionic | Ruby on Rails 
-- 🛢 &nbsp; MySQL | Xampp | Docker | PostgreSql | Sqlite 
+- 🛢 &nbsp; MySQL | Xampp | Docker | PostgreSql | Sqlite | Doctrine | Eloquent
 - 🔧 &nbsp; Visual Studio code | Git | SmartGit | IntelliJ | DBeaver | Insomnia
 
 
