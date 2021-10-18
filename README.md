@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML | CSS | JavaScript | PHP | Java | Python
-- 🌐 &nbsp; React | ReactNative | NodeJS | TypeScript | Angular | Ionic | Laravel
-- 🛢 &nbsp; MySQL | Xampp | Docker | PostgreSql 
-- 🔧 &nbsp; Visual Studio code | Git | SmartGit | WebStorm | IntelliJ | DBeaver | Insomnia
+- 💻 &nbsp; HTML | CSS | JavaScript | PHP | Java | Python | Ruby
+- 🌐 &nbsp; Laravel | Lumen | Ionic | Ruby on Rails 
+- 🛢 &nbsp; MySQL | Xampp | Docker | PostgreSql | Sqlite 
+- 🔧 &nbsp; Visual Studio code | Git | SmartGit | IntelliJ | DBeaver | Insomnia
 
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=caduxl007&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats"> -->
