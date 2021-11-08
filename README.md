@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=acmachado14.visitor-badge)
 
 <h2> Hey there! I'm Angelo. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="250"/>
