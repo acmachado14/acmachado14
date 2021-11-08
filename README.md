@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; HTML | CSS | JavaScript | PHP | Java | Python | Ruby
-- 🌐 &nbsp; Laravel | Lumen | Ionic | Ruby on Rails 
+- 🌐 &nbsp; Laravel | Lumen | Ionic | Ruby on Rails | PHPUnit
 - 🛢 &nbsp; MySQL | Xampp | Docker | PostgreSql | Sqlite | Doctrine | Eloquent
 - 🔧 &nbsp; Visual Studio code | Git | SmartGit | IntelliJ | DBeaver | Insomnia
 
