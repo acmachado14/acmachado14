@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acmachado14&layout=demo&text_color=daf7dc&theme=ayu-mirage)](https://github.com/caduxl007/github-readme-stats)               ![acmachado14 github stats](https://github-readme-stats.vercel.app/api?username=acmachado14&show_icons=true&theme=ayu-mirage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acmachado14&hide_progress=true)              ![acmachado14 github stats](https://github-readme-stats.vercel.app/api?username=acmachado14\&hide=contribs,issues)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
