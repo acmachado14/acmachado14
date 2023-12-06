@@ -30,10 +30,11 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML | CSS | JavaScript | PHP | Java | Python | Ruby
-- 🌐 &nbsp; Laravel | Lumen | Ionic | Ruby on Rails | PHPUnit | Docker
-- 🛢 &nbsp; MySQL | Xampp | PostgreSql | Sqlite | Doctrine | Eloquent
-- 📜 &nbsp; Design Patterns | TDD | DDD | SOLID | MVC | ADR | Clean Architecture
+- 💻 &nbsp; PHP | JavaScript | Java | Python | C/C++
+- 🌐 &nbsp; Laravel | Lumen | CakePHP | Node | Ionic | Flutter | Vue
+- 🛢 &nbsp; Relational Databases | Doctrine | Eloquent
+- 🧪 &nbsp; PHPUnit | Pact | Cypress | Selenium | Jest | Mocha | Junit
+- 📜 &nbsp; Design Patterns | SOLID | TDD | DDD | MVC | ADR | Clean Architecture
 
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=caduxl007&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats"> -->
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
 
 <p align="center">  
 &nbsp; <a href="https://www.instagram.com/acmachado14/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/%C3%A2ngelo-cupertino-9456b41b6/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/angelo-cupertino/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="cupertinoangelo13@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
